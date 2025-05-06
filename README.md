@@ -560,20 +560,23 @@ figured this problem out, the rest went smoothly.
 
 # Conclusions
 
-This study investigated the growth of population, the makeup of ethnic
-groups, and the status of veterans in the counties of Iowa from 2000 to
-2017. While it is true that not all counties experienced the same
+This analysis explored population growth, ethnic composition, and
+veteran status across Iowa counties from 2000 to 2017. The results
+showed that while it is true that not all counties experienced the same
 levels, some did see population growth over that time. Most, however,
-saw little to no growth, and some even regressed. The makeup of those
-living in the counties shifted as well, with 2017 revealing a different
-look for some populations. While some changes occurred with the more
-traditional demographics—like a shift in the number of Caucasian Iowans
-or a change in the number of individuals identifying as African
-American—there was a pretty significant shift in the number of counties
-that could say they had a population of Hispanic Iowans. Also in this
-analysis, the makeup of those serving in the military also saw
-significant changes, with fewer individuals identifying as veterans—a
-shift that seems to be happening across the US.
+saw little to no growth, and some even regressed. Ethnic composition
+also shifted over time, with notable changes in the percentage of
+African American, Hispanic, and Native American populations from 2010 to
+2017, reflecting broader demographic trends in the country.
+Additionally, veteran status data revealed a decline in the percentage
+of veterans in many counties, suggesting changing dynamics in this
+population group.Veterans were also more spread into rural areas rather
+than urban areas. A limitation of this analysis is the lack of detailed
+socio-economic variables that could further explain these patterns,
+along with not as current of data. With more time or team members, it
+would have been beneficial to explore the other variables in this data
+set, such as education and household income, and see if this ties into
+the demographics discussed.
 
 ## References
 
